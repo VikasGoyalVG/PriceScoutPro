@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251985943507",
+    "project_id": "pricescout-pro",
+    "storage_bucket": "pricescout-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251985943507:android:ac7b08413a4b58353fad26",
+        "android_client_info": {
+          "package_name": "com.example.pricescout_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEnZG4m0HOclAJuzGCVreZVH1voPm-9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
